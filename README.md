@@ -1,1 +1,3 @@
 # questions
+
+The questions project is a project that has a question and answer. When the page is loaded we see the 3 questions that are currently displayed, next to the questions we have a + button for each of them. When the user clicks one of the plus button it rotates horizontally and replaces the + button with the - button and displays the answer of that question. When the user wants to hide the answer he clicks the - button, the button rotates vertically, it replaces the - button with the + button and hides the answer of the question. If the user wants to open another answer of a question but another question is already opened than the last opened question hides the answer of that question and the question that the user clicks shows the answer of that question.  
